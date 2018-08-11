@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="AR: AlManar (LEB)">
+    <display-name lang="AR">AR: AlManar (LEB)</display-name>
+    <icon src="http://www.iptvextreme.org/picon/TRS/50x30/almanar.png" />
+    <url>http://www.iptvextreme.org</url>
+  </channel>
+  <channel id="ext2">
+    <display-name lang="AR">AlJadeed (LEB))</display-name>
+    <icon src="https://www.lyngsat-logo.com/logo/tv/aa/al_jadeed.png" />
+    <url>https://www.lyngsat-logo.com</url>
+</tv>

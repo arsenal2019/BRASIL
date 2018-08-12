@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="AR: AlManar (LEB)">
+    <display-name lang="pt">AR: AlManar (LEB)</display-name>
+    <icon src="https://arsenallebanon.000webhostapp.com/LOGOS/al_manar_tv.png" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="AR: AlJadeed (LEB)">
+    <display-name lang="pt">AR: AlJadeed (LEB)</display-name>
+    <icon src="https://arsenallebanon.000webhostapp.com/LOGOS/al_jadeed.png" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id=" ALMAYADEEN (LEB)">
+    <display-name lang="pt"> ALMAYADEEN (LEB)</display-name>
+    <icon src="https://arsenallebanon.000webhostapp.com/LOGOS/al_mayadeen_tv.png" />
+    <url>http://www.vodafone.pt</url>
+	
+	
+  
+  
+ 
